@@ -1,0 +1,10 @@
+.app {
+    background-color: #ffd500;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
